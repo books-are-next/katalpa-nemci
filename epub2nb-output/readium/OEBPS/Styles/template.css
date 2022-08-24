@@ -1,0 +1,210 @@
+@font-face {
+	font-family : "Monopol Medium";
+	font-style : normal;
+	font-weight : 500;
+	src : url("../Fonts/MonopolMedium.otf");
+}
+@font-face {
+	font-family : "Monopol Thin";
+	font-style : normal;
+	font-weight : 600;
+	src : url("../Fonts/MonopolThin-Bold.otf");
+}
+@font-face {
+	font-family : "Tabac G2";
+	font-style : normal;
+	font-weight : normal;
+	src : url("../Fonts/TabacG2.otf");
+}
+@font-face {
+	font-family : "Tabac G2";
+	font-style : italic ;
+	font-weight : normal;
+	src : url("../Fonts/TabacG2-Italic.otf");
+}
+@font-face {
+	font-family : "Tabac G3";
+	font-style : normal;
+	font-weight : normal;
+	src : url("../Fonts/TabacG3.otf");
+}
+@font-face {
+	font-family : "Tabac G3 Medium";
+	font-style : normal;
+	font-weight : bold;
+	src : url("../Fonts/TabacG3Medium-Bold.otf");
+}
+tbody, thead, tfoot, tr, td, th {
+	border-style : inherit;
+	border-width : inherit;
+	border-color : inherit;
+}
+.leftFloat {
+	float : left;
+}
+.rightFloat {
+	float : right;
+}
+span.verzalky {
+	font-size : 0.79em;
+	font-variant : normal;
+	color : #000000;
+}
+span.kursiva {
+	font-weight : normal;
+	font-style : italic;
+	font-variant : normal;
+}
+span.bold {
+	font-weight : bold;
+	font-style : normal;
+	color : #000000;
+}
+span.char-style-override-1 {
+	font-size : 0.83em;
+}
+p.T4 {
+	font-family : "Monopol Medium", sans-serif;
+	font-weight : 500;
+	font-style : normal;
+	font-size : 3.75em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.11;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 45px 25px;
+}
+p.T2 {
+	font-family : "Tabac G3", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.3;
+	text-align : justify;
+	color : #000000;
+	text-indent : 14px;
+	margin : 0px;
+}
+p.T5 {
+	font-family : "Tabac G2", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 1em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.33;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 14px 27px;
+}
+p.T1 {
+	font-family : "Tabac G3", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.3;
+	text-align : justify;
+	color : #000000;
+	text-indent : 0px;
+	margin : 19px 0px 0px 0px;
+}
+p.T7 {
+	font-family : "Tabac G3", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.3;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 0px 27px;
+}
+p.T3 {
+	font-family : "Monopol Thin", sans-serif;
+	font-weight : 600;
+	font-style : normal;
+	font-size : 1.67em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.25;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 30px 0px;
+}
+p.T6 {
+	font-family : "Tabac G3", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.3;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 20px 0px 5px 0px;
+}
+p.PB {
+	font-family : "Tabac G3", serif;
+	font-weight : normal;
+	font-style : normal;
+	font-size : 0.83em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1.3;
+	text-align : center;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px;
+}
+p.T8 {
+	font-family : "Monopol Medium", sans-serif;
+	font-weight : 500;
+	font-style : normal;
+	font-size : 5em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 0px 0px 45px 25px;
+}
+p.T9 {
+	font-family : "Monopol Thin", sans-serif;
+	font-weight : 600;
+	font-style : normal;
+	font-size : 1.33em;
+	text-decoration : none;
+	font-variant : normal;
+	line-height : 1;
+	text-align : left;
+	color : #000000;
+	text-indent : 0px;
+	margin : 14px 0px 5px 14px;
+}
+p.para-style-override-1 {
+	text-align : left;
+	margin-top : 0em;
+	margin-bottom : 0em;
+	page-break-after : always;
+}
+p.para-style-override-2 {
+	text-align : left;
+	margin-top : 0em;
+	margin-bottom : 0em;
+	page-break-before : always;
+	page-break-after : always;
+}
+div.frame {
+}

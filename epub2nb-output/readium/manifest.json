@@ -1,0 +1,1030 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Němci",
+    "identifier": "Jakuba Katalpa: Němci",
+    "author": "Jakuba Katalpa",
+    "publisher": "Host — vydavatelství, s. r. o.",
+    "language": "cs-CZ",
+    "modified": "2012-11-08T00:00:00.000Z",
+    "published": "2012-11-08T00:00:00.000Z",
+    "description": "Píše se rok 1987 a ze západního Německa do Prahy dorazí poslední z balíčků, které rodině Mahlerových pravidelně přicházely od konce čtyřicátých let. Svému synovi Konradovi je posílala Klára Rissmannová. O babičce Kláře se však u Mahlerových nikdy nemluvilo, a proto po Konradově nečekané smrti zůstane řada nezodpovězených otázek. Pochopení rodinné minulosti a odhalení jejích traumat leží na Klářině vnučce, která se rozhodne babičku najít. Ve svém novém románu zavádí Jakuba Katalpa čtenáře do prostředí německé rodiny zasažené útrapami první a druhé světové války, do válečných Sudet a poválečné Prahy. Slibný svět hlavní hrdinky, z počátku přímočaře bezstarostný, začíná s přibývajícím časem dostávat trhliny, růžové brýle střídá deziluze a před čtenářem vyvstává otázka – opravdu je možné po tolika letech nalézt pravdu? Autorčin vytříbený jazyk silně kontrastuje se syrovostí, s níž jsou líčeny životní milníky jednotlivých postav, a umožňuje tak ještě zevrubněji prozkoumat téma ztráty a vykořenění, které v mnoha variacích dominuje celému románu.",
+    "subject": [
+      "Host Brno",
+      "Nakladatelství Host"
+    ],
+    "generator": "Adobe InDesign",
+    "cover": "cover.png",
+    "Sigil version": "0.6.0"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-1.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-2.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-3.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-4.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-5.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-6.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-7.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-8.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-9.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-10.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-11.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-12.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-13.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-14.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-15.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-16.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-17.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-18.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-19.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-20.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-21.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-22.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-23.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-24.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-25.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-26.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-27.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-28.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-29.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-30.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-31.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-32.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-33.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-34.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-35.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-36.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-37.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-38.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-39.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-40.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-41.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-42.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-43.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-44.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-45.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-46.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-47.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-48.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-49.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-50.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-51.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-52.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-53.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-54.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-55.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-56.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-57.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-58.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-59.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-60.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-61.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-62.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-63.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-64.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-65.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-66.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-67.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-68.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-69.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-70.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-71.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-72.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-73.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-74.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-75.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-76.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-77.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-78.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-79.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-80.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-81.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-82.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-83.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-84.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-85.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-86.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-87.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-88.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-89.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-90.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-91.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-92.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-93.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-94.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-95.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-96.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-97.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-98.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-99.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-100.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-101.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-102.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-103.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-104.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-105.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-106.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-107.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-108.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-109.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-110.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-111.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-112.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-113.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-114.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-115.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-116.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-117.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-118.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-119.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Katalpa-120.html"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/template.css"
+    },
+    {
+      "type": "image/png",
+      "height": 799,
+      "width": 525,
+      "rel": "cover",
+      "href": "OEBPS/Images/cover.png"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/divider_opt.png"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/page7_opt.png"
+    },
+    {
+      "type": "application/vnd.ms-opentype",
+      "href": "OEBPS/Fonts/MonopolMedium.otf"
+    },
+    {
+      "type": "application/vnd.ms-opentype",
+      "href": "OEBPS/Fonts/MonopolThin-Bold.otf"
+    },
+    {
+      "type": "application/vnd.ms-opentype",
+      "href": "OEBPS/Fonts/TabacG2.otf"
+    },
+    {
+      "type": "application/vnd.ms-opentype",
+      "href": "OEBPS/Fonts/TabacG2-Italic.otf"
+    },
+    {
+      "type": "application/vnd.ms-opentype",
+      "href": "OEBPS/Fonts/TabacG3.otf"
+    },
+    {
+      "type": "application/vnd.ms-opentype",
+      "href": "OEBPS/Fonts/TabacG3Medium-Bold.otf"
+    }
+  ],
+  "toc": [
+    {
+      "title": "I. kšandičky",
+      "href": "OEBPS/Text/Katalpa-2.html#toc_marker-1"
+    },
+    {
+      "title": "Pohřeb",
+      "href": "OEBPS/Text/Katalpa-3.html#toc_marker-2"
+    },
+    {
+      "title": "Smutek",
+      "href": "OEBPS/Text/Katalpa-4.html#toc_marker-3"
+    },
+    {
+      "title": "Kšandičky",
+      "href": "OEBPS/Text/Katalpa-5.html#toc_marker-4"
+    },
+    {
+      "title": "Telefonát",
+      "href": "OEBPS/Text/Katalpa-6.html#toc_marker-5"
+    },
+    {
+      "title": "Pottsau",
+      "href": "OEBPS/Text/Katalpa-7.html#toc_marker-6"
+    },
+    {
+      "title": "Dovolená",
+      "href": "OEBPS/Text/Katalpa-8.html#toc_marker-7"
+    },
+    {
+      "title": "Broskvový koláč",
+      "href": "OEBPS/Text/Katalpa-9.html#toc_marker-8"
+    },
+    {
+      "title": "Klára",
+      "href": "OEBPS/Text/Katalpa-10.html#toc_marker-9"
+    },
+    {
+      "title": "Gertrude",
+      "href": "OEBPS/Text/Katalpa-11.html#toc_marker-10"
+    },
+    {
+      "title": "Prasklina",
+      "href": "OEBPS/Text/Katalpa-12.html#toc_marker-11"
+    },
+    {
+      "title": "II. krásné německo. dětské krůčky",
+      "href": "OEBPS/Text/Katalpa-13.html#toc_marker-12"
+    },
+    {
+      "title": "Narození",
+      "href": "OEBPS/Text/Katalpa-14.html#toc_marker-13"
+    },
+    {
+      "title": "Strach",
+      "href": "OEBPS/Text/Katalpa-15.html#toc_marker-14"
+    },
+    {
+      "title": "Bratr",
+      "href": "OEBPS/Text/Katalpa-16.html#toc_marker-15"
+    },
+    {
+      "title": "Hrdina",
+      "href": "OEBPS/Text/Katalpa-17.html#toc_marker-16"
+    },
+    {
+      "title": "Smrt",
+      "href": "OEBPS/Text/Katalpa-18.html#toc_marker-17"
+    },
+    {
+      "title": "Dědečkova pracovna",
+      "href": "OEBPS/Text/Katalpa-19.html#toc_marker-18"
+    },
+    {
+      "title": "III. krásné německo. muži",
+      "href": "OEBPS/Text/Katalpa-20.html#toc_marker-19"
+    },
+    {
+      "title": "Mladík",
+      "href": "OEBPS/Text/Katalpa-21.html#toc_marker-20"
+    },
+    {
+      "title": "Nesmělost",
+      "href": "OEBPS/Text/Katalpa-22.html#toc_marker-21"
+    },
+    {
+      "title": "1931; štěpení času",
+      "href": "OEBPS/Text/Katalpa-23.html#toc_marker-22"
+    },
+    {
+      "title": "1932; úlomky za okny vlaku",
+      "href": "OEBPS/Text/Katalpa-24.html#toc_marker-23"
+    },
+    {
+      "title": "1933; štěpení času II",
+      "href": "OEBPS/Text/Katalpa-25.html#toc_marker-24"
+    },
+    {
+      "title": "1934; úlomky za okny vlaku II",
+      "href": "OEBPS/Text/Katalpa-26.html#toc_marker-25"
+    },
+    {
+      "title": "1935; štěpení času III",
+      "href": "OEBPS/Text/Katalpa-27.html#toc_marker-26"
+    },
+    {
+      "title": "Slib",
+      "href": "OEBPS/Text/Katalpa-28.html#toc_marker-27"
+    },
+    {
+      "title": "R. H.",
+      "href": "OEBPS/Text/Katalpa-29.html#toc_marker-28"
+    },
+    {
+      "title": "IV. krásné německo. milý",
+      "href": "OEBPS/Text/Katalpa-30.html#toc_marker-29"
+    },
+    {
+      "title": "Vůně",
+      "href": "OEBPS/Text/Katalpa-31.html#toc_marker-30"
+    },
+    {
+      "title": "Horst",
+      "href": "OEBPS/Text/Katalpa-32.html#toc_marker-31"
+    },
+    {
+      "title": "Krevety a vypůjčený smoking",
+      "href": "OEBPS/Text/Katalpa-33.html#toc_marker-32"
+    },
+    {
+      "title": "Mit zähem Willen",
+      "href": "OEBPS/Text/Katalpa-34.html#toc_marker-33"
+    },
+    {
+      "title": "Židovka",
+      "href": "OEBPS/Text/Katalpa-35.html#toc_marker-34"
+    },
+    {
+      "title": "Domov",
+      "href": "OEBPS/Text/Katalpa-36.html#toc_marker-35"
+    },
+    {
+      "title": "Zbabělost",
+      "href": "OEBPS/Text/Katalpa-37.html#toc_marker-36"
+    },
+    {
+      "title": "V. krásné německo. trhliny",
+      "href": "OEBPS/Text/Katalpa-38.html#toc_marker-37"
+    },
+    {
+      "title": "Skorovdova",
+      "href": "OEBPS/Text/Katalpa-39.html#toc_marker-38"
+    },
+    {
+      "title": "Revolver",
+      "href": "OEBPS/Text/Katalpa-40.html#toc_marker-39"
+    },
+    {
+      "title": "Popletení",
+      "href": "OEBPS/Text/Katalpa-41.html#toc_marker-40"
+    },
+    {
+      "title": "Skvrna",
+      "href": "OEBPS/Text/Katalpa-42.html#toc_marker-41"
+    },
+    {
+      "title": "Umístěnka",
+      "href": "OEBPS/Text/Katalpa-43.html#toc_marker-42"
+    },
+    {
+      "title": "Rzy",
+      "href": "OEBPS/Text/Katalpa-44.html#toc_marker-43"
+    },
+    {
+      "title": "VI. rzy. pokoj v podkroví",
+      "href": "OEBPS/Text/Katalpa-45.html#toc_marker-44"
+    },
+    {
+      "title": "Žert",
+      "href": "OEBPS/Text/Katalpa-46.html#toc_marker-45"
+    },
+    {
+      "title": "Chlast",
+      "href": "OEBPS/Text/Katalpa-47.html#toc_marker-46"
+    },
+    {
+      "title": "Křída",
+      "href": "OEBPS/Text/Katalpa-48.html#toc_marker-47"
+    },
+    {
+      "title": "Fuchs",
+      "href": "OEBPS/Text/Katalpa-49.html#toc_marker-48"
+    },
+    {
+      "title": "Dárek",
+      "href": "OEBPS/Text/Katalpa-50.html#toc_marker-49"
+    },
+    {
+      "title": "Cizinka",
+      "href": "OEBPS/Text/Katalpa-51.html#toc_marker-50"
+    },
+    {
+      "title": "Daleko od fronty",
+      "href": "OEBPS/Text/Katalpa-52.html#toc_marker-51"
+    },
+    {
+      "title": "Jazyk",
+      "href": "OEBPS/Text/Katalpa-53.html#toc_marker-52"
+    },
+    {
+      "title": "Samota",
+      "href": "OEBPS/Text/Katalpa-54.html#toc_marker-53"
+    },
+    {
+      "title": "Ras",
+      "href": "OEBPS/Text/Katalpa-55.html#toc_marker-54"
+    },
+    {
+      "title": "Divadlo",
+      "href": "OEBPS/Text/Katalpa-56.html#toc_marker-55"
+    },
+    {
+      "title": "Opona",
+      "href": "OEBPS/Text/Katalpa-57.html#toc_marker-56"
+    },
+    {
+      "title": "Malke",
+      "href": "OEBPS/Text/Katalpa-58.html#toc_marker-57"
+    },
+    {
+      "title": "Hladový les",
+      "href": "OEBPS/Text/Katalpa-59.html#toc_marker-58"
+    },
+    {
+      "title": "Žádost",
+      "href": "OEBPS/Text/Katalpa-60.html#toc_marker-59"
+    },
+    {
+      "title": "Nemoc",
+      "href": "OEBPS/Text/Katalpa-61.html#toc_marker-60"
+    },
+    {
+      "title": "Lekce literatury",
+      "href": "OEBPS/Text/Katalpa-62.html#toc_marker-61"
+    },
+    {
+      "title": "Splynutí",
+      "href": "OEBPS/Text/Katalpa-63.html#toc_marker-62"
+    },
+    {
+      "title": "Zámek",
+      "href": "OEBPS/Text/Katalpa-64.html#toc_marker-63"
+    },
+    {
+      "title": "Melman",
+      "href": "OEBPS/Text/Katalpa-65.html#toc_marker-64"
+    },
+    {
+      "title": "Dobrá rada",
+      "href": "OEBPS/Text/Katalpa-66.html#toc_marker-65"
+    },
+    {
+      "title": "Propast",
+      "href": "OEBPS/Text/Katalpa-67.html#toc_marker-66"
+    },
+    {
+      "title": "Weissmann",
+      "href": "OEBPS/Text/Katalpa-68.html#toc_marker-67"
+    },
+    {
+      "title": "Knihovna",
+      "href": "OEBPS/Text/Katalpa-69.html#toc_marker-68"
+    },
+    {
+      "title": "Vlak",
+      "href": "OEBPS/Text/Katalpa-70.html#toc_marker-69"
+    },
+    {
+      "title": "Mlčení",
+      "href": "OEBPS/Text/Katalpa-71.html#toc_marker-70"
+    },
+    {
+      "title": "Napadení",
+      "href": "OEBPS/Text/Katalpa-72.html#toc_marker-71"
+    },
+    {
+      "title": "Konzultace",
+      "href": "OEBPS/Text/Katalpa-73.html#toc_marker-72"
+    },
+    {
+      "title": "Bolest",
+      "href": "OEBPS/Text/Katalpa-74.html#toc_marker-73"
+    },
+    {
+      "title": "Okna",
+      "href": "OEBPS/Text/Katalpa-75.html#toc_marker-74"
+    },
+    {
+      "title": "Neprostupnost",
+      "href": "OEBPS/Text/Katalpa-76.html#toc_marker-75"
+    },
+    {
+      "title": "Krása",
+      "href": "OEBPS/Text/Katalpa-77.html#toc_marker-76"
+    },
+    {
+      "title": "Zvědavost",
+      "href": "OEBPS/Text/Katalpa-78.html#toc_marker-77"
+    },
+    {
+      "title": "Čich",
+      "href": "OEBPS/Text/Katalpa-79.html#toc_marker-78"
+    },
+    {
+      "title": "Pod hladinou",
+      "href": "OEBPS/Text/Katalpa-80.html#toc_marker-79"
+    },
+    {
+      "title": "Otázka",
+      "href": "OEBPS/Text/Katalpa-81.html#toc_marker-80"
+    },
+    {
+      "title": "Zjištění",
+      "href": "OEBPS/Text/Katalpa-82.html#toc_marker-81"
+    },
+    {
+      "title": "Otec",
+      "href": "OEBPS/Text/Katalpa-83.html#toc_marker-82"
+    },
+    {
+      "title": "Rozhodnutí",
+      "href": "OEBPS/Text/Katalpa-84.html#toc_marker-83"
+    },
+    {
+      "title": "Rozhlas",
+      "href": "OEBPS/Text/Katalpa-85.html#toc_marker-84"
+    },
+    {
+      "title": "Oheň a díra v čelisti",
+      "href": "OEBPS/Text/Katalpa-86.html#toc_marker-85"
+    },
+    {
+      "title": "Sadba",
+      "href": "OEBPS/Text/Katalpa-87.html#toc_marker-86"
+    },
+    {
+      "title": "Rána",
+      "href": "OEBPS/Text/Katalpa-88.html#toc_marker-87"
+    },
+    {
+      "title": "VII. rzy. de profundis",
+      "href": "OEBPS/Text/Katalpa-89.html#toc_marker-88"
+    },
+    {
+      "title": "Náruč",
+      "href": "OEBPS/Text/Katalpa-90.html#toc_marker-89"
+    },
+    {
+      "title": "VIII. rzy. odchod",
+      "href": "OEBPS/Text/Katalpa-91.html#toc_marker-90"
+    },
+    {
+      "title": "Sestry",
+      "href": "OEBPS/Text/Katalpa-92.html#toc_marker-91"
+    },
+    {
+      "title": "Statek",
+      "href": "OEBPS/Text/Katalpa-93.html#toc_marker-92"
+    },
+    {
+      "title": "Rozpad",
+      "href": "OEBPS/Text/Katalpa-94.html#toc_marker-93"
+    },
+    {
+      "title": "Prázdno",
+      "href": "OEBPS/Text/Katalpa-95.html#toc_marker-94"
+    },
+    {
+      "title": "Rodina",
+      "href": "OEBPS/Text/Katalpa-96.html#toc_marker-95"
+    },
+    {
+      "title": "Rozpouštění",
+      "href": "OEBPS/Text/Katalpa-97.html#toc_marker-96"
+    },
+    {
+      "title": "Překvapení",
+      "href": "OEBPS/Text/Katalpa-98.html#toc_marker-97"
+    },
+    {
+      "title": "Síť slov",
+      "href": "OEBPS/Text/Katalpa-99.html#toc_marker-98"
+    },
+    {
+      "title": "Jaro",
+      "href": "OEBPS/Text/Katalpa-100.html#toc_marker-99"
+    },
+    {
+      "title": "Něha",
+      "href": "OEBPS/Text/Katalpa-101.html#toc_marker-100"
+    },
+    {
+      "title": "Transport",
+      "href": "OEBPS/Text/Katalpa-102.html#toc_marker-101"
+    },
+    {
+      "title": "Odchod",
+      "href": "OEBPS/Text/Katalpa-103.html#toc_marker-102"
+    },
+    {
+      "title": "Poklad ze dna",
+      "href": "OEBPS/Text/Katalpa-104.html#toc_marker-103"
+    },
+    {
+      "title": "Anna Gerlingová",
+      "href": "OEBPS/Text/Katalpa-105.html#toc_marker-104"
+    },
+    {
+      "title": "Dítě",
+      "href": "OEBPS/Text/Katalpa-106.html#toc_marker-105"
+    },
+    {
+      "title": "Touha",
+      "href": "OEBPS/Text/Katalpa-107.html#toc_marker-106"
+    },
+    {
+      "title": "Odhalení",
+      "href": "OEBPS/Text/Katalpa-108.html#toc_marker-107"
+    },
+    {
+      "title": "Vzpomínka",
+      "href": "OEBPS/Text/Katalpa-109.html#toc_marker-108"
+    },
+    {
+      "title": "Odpor",
+      "href": "OEBPS/Text/Katalpa-110.html#toc_marker-109"
+    },
+    {
+      "title": "Učitelka",
+      "href": "OEBPS/Text/Katalpa-111.html#toc_marker-110"
+    },
+    {
+      "title": "Plán",
+      "href": "OEBPS/Text/Katalpa-112.html#toc_marker-111"
+    },
+    {
+      "title": "Počátek",
+      "href": "OEBPS/Text/Katalpa-113.html#toc_marker-112"
+    },
+    {
+      "title": "IX. matky",
+      "href": "OEBPS/Text/Katalpa-114.html#toc_marker-113"
+    },
+    {
+      "title": "Skládanka",
+      "href": "OEBPS/Text/Katalpa-115.html#toc_marker-114"
+    },
+    {
+      "title": "Kousnutí",
+      "href": "OEBPS/Text/Katalpa-116.html#toc_marker-115"
+    },
+    {
+      "title": "Balíček",
+      "href": "OEBPS/Text/Katalpa-117.html#toc_marker-116"
+    },
+    {
+      "title": "Geografie ztráty",
+      "href": "OEBPS/Text/Katalpa-118.html#toc_marker-117"
+    },
+    {
+      "title": "Pohyb, který rozvlnil vzduch",
+      "href": "OEBPS/Text/Katalpa-119.html#toc_marker-118"
+    }
+  ]
+}
