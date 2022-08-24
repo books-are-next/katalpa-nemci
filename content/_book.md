@@ -1,39 +1,147 @@
 ---
 outputs: meta
 slug: book
-
-languageCode: en-US
+contentType: prose
+languageCode: en
 meta:
-  title: "Next-book Boilerplate"
-  author: "Author Name"
-  publisher: mkp
-  publisherShort: mkp
-  published: 2020
-  keywords: []
-  edition: beletrie
+  title: Němci
+  identifier: 'Jakuba Katalpa: Němci'
+  author: Jakuba Katalpa
+  publisher: Host — vydavatelství, s. r. o.
+  modified: '2012-11-08T00:00:00.000Z'
 readingOrder:
-  - where-i-lived-and-what-i-lived-for.html
-  - reading.html
-  - sounds.html
-  - solitude.html
+  - promo.html
+  - katalpa.html
+  - katalpa-1.html
+  - katalpa-2.html
+  - katalpa-3.html
+  - katalpa-4.html
+  - katalpa-5.html
+  - katalpa-6.html
+  - katalpa-7.html
+  - katalpa-8.html
+  - katalpa-9.html
+  - katalpa-10.html
+  - katalpa-11.html
+  - katalpa-12.html
+  - katalpa-13.html
+  - katalpa-14.html
+  - katalpa-15.html
+  - katalpa-16.html
+  - katalpa-17.html
+  - katalpa-18.html
+  - katalpa-19.html
+  - katalpa-20.html
+  - katalpa-21.html
+  - katalpa-22.html
+  - katalpa-23.html
+  - katalpa-24.html
+  - katalpa-25.html
+  - katalpa-26.html
+  - katalpa-27.html
+  - katalpa-28.html
+  - katalpa-29.html
+  - katalpa-30.html
+  - katalpa-31.html
+  - katalpa-32.html
+  - katalpa-33.html
+  - katalpa-34.html
+  - katalpa-35.html
+  - katalpa-36.html
+  - katalpa-37.html
+  - katalpa-38.html
+  - katalpa-39.html
+  - katalpa-40.html
+  - katalpa-41.html
+  - katalpa-42.html
+  - katalpa-43.html
+  - katalpa-44.html
+  - katalpa-45.html
+  - katalpa-46.html
+  - katalpa-47.html
+  - katalpa-48.html
+  - katalpa-49.html
+  - katalpa-50.html
+  - katalpa-51.html
+  - katalpa-52.html
+  - katalpa-53.html
+  - katalpa-54.html
+  - katalpa-55.html
+  - katalpa-56.html
+  - katalpa-57.html
+  - katalpa-58.html
+  - katalpa-59.html
+  - katalpa-60.html
+  - katalpa-61.html
+  - katalpa-62.html
+  - katalpa-63.html
+  - katalpa-64.html
+  - katalpa-65.html
+  - katalpa-66.html
+  - katalpa-67.html
+  - katalpa-68.html
+  - katalpa-69.html
+  - katalpa-70.html
+  - katalpa-71.html
+  - katalpa-72.html
+  - katalpa-73.html
+  - katalpa-74.html
+  - katalpa-75.html
+  - katalpa-76.html
+  - katalpa-77.html
+  - katalpa-78.html
+  - katalpa-79.html
+  - katalpa-80.html
+  - katalpa-81.html
+  - katalpa-82.html
+  - katalpa-83.html
+  - katalpa-84.html
+  - katalpa-85.html
+  - katalpa-86.html
+  - katalpa-87.html
+  - katalpa-88.html
+  - katalpa-89.html
+  - katalpa-90.html
+  - katalpa-91.html
+  - katalpa-92.html
+  - katalpa-93.html
+  - katalpa-94.html
+  - katalpa-95.html
+  - katalpa-96.html
+  - katalpa-97.html
+  - katalpa-98.html
+  - katalpa-99.html
+  - katalpa-100.html
+  - katalpa-101.html
+  - katalpa-102.html
+  - katalpa-103.html
+  - katalpa-104.html
+  - katalpa-105.html
+  - katalpa-106.html
+  - katalpa-107.html
+  - katalpa-108.html
+  - katalpa-109.html
+  - katalpa-110.html
+  - katalpa-111.html
+  - katalpa-112.html
+  - katalpa-113.html
+  - katalpa-114.html
+  - katalpa-115.html
+  - katalpa-116.html
+  - katalpa-117.html
+  - katalpa-118.html
+  - katalpa-119.html
+  - katalpa-120.html
 tocBase:
-  - isSection: true
-    children:
-      - link: where-i-lived-and-what-i-lived-for.html
-        title: Where i lived and what i lived for
-        numberedChildren: true;
-        children:
-          - link: reading.html
-            title: Reading
-          - link: sounds.html
-            title: Sounds
-      - link: solitude.html
-        title: Solitude
+  - id: section-1
+    children: []
+    isSection: true
 static:
   - style
   - scripts
+  - title
   - fonts
-  - images
+  - resources
   - template-images
   - assets
   - favicon.png
