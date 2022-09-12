@@ -1,10 +1,9 @@
 ---
+title: Daleko od fronty
 contentType: prose
 ---
 
 <section>
-
-Daleko od fronty
 
 To, že mu zůstal statek, považoval Fuchs střídavě za prokletí a za požehnání.
 

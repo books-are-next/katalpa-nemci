@@ -1,10 +1,9 @@
 ---
+title: Skvrna
 contentType: prose
 ---
 
 <section>
-
-Skvrna
 
 Rozhodně neměla v úmyslu na to místo nastoupit.
 

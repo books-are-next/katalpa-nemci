@@ -1,10 +1,9 @@
 ---
+title: Narození
 contentType: prose
 ---
 
 <section>
-
-Narození
 
 Porodní bolesti přišly na Franzisku Kolmannovou pětadvacátého března roku 1912.
 

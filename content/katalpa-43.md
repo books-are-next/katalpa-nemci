@@ -1,10 +1,9 @@
 ---
+title: Umístěnka
 contentType: prose
 ---
 
 <section>
-
-Umístěnka
 
 Když nazítří dorazila na školský úřad, za stolem seděla stejná žena jako minule.
 

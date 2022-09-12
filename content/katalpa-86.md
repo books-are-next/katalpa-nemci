@@ -1,10 +1,9 @@
 ---
+title: "Oheň a\_díra v\_čelisti"
 contentType: prose
 ---
 
 <section>
-
-Oheň a díra v čelisti
 
 Bomba, která zabila Huga Melmana, byla vyrobena v továrně spadající do správy Hermann-Göring-Werke ve Stuttgartu a na jejím smontování se podílelo osm lidí.
 

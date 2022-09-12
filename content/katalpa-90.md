@@ -1,10 +1,9 @@
 ---
+title: Náruč
 contentType: prose
 ---
 
 <section>
-
-Náruč
 
 Ležela v sadu, ve vlhké trávě a naslouchala tichu obklopujícímu vesnici.
 

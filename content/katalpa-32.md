@@ -1,10 +1,9 @@
 ---
+title: Horst
 contentType: prose
 ---
 
 <section>
-
-Horst
 
 Horst Ungar měl smysl pro krásu.
 

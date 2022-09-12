@@ -1,10 +1,9 @@
 ---
+title: Rodina
 contentType: prose
 ---
 
 <section>
-
-Rodina
 
 Na nápad s fotografováním přišla Barbora Levičková na konci listopadu, po návratu ze mše.
 

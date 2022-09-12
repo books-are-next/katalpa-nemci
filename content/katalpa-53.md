@@ -1,10 +1,9 @@
 ---
+title: Jazyk
 contentType: prose
 ---
 
 <section>
-
-Jazyk
 
 V březnu zaslechla Klára několik dětí mluvit česky.
 

@@ -1,15 +1,14 @@
 ---
+title: "IV\\.\_krásné německo\\. milý"
 contentType: prose
 ---
 
 <section>
 
-IV. krásné německo. milý
-
-Pro německého člověka není nic nemožné.  
+_Pro německého člověka není nic nemožné._  
 Hermann Göring
 
-Nemáme se za co stydět. Masové konzervy jsou jeden z nejlepších produktů, jimiž se německý průmysl může chlubit.  
+_Nemáme se za co stydět. Masové konzervy jsou jeden z nejlepších produktů, jimiž se německý průmysl může chlubit._  
 Horst Ungar
 
 </section>

@@ -1,10 +1,9 @@
 ---
+title: Melman
 contentType: prose
 ---
 
 <section>
-
-Melman
 
 Když se Melman po telefonátu s Kampffmeyerem vrátil zpět na zámek, vzrušeně probíhal jednotlivými místnostmi, zabloudil na půdu, kde zůstal udiveně civět na šiky sušících se rostlin, a nakonec proslídil sklep.
 

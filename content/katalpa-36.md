@@ -1,10 +1,9 @@
 ---
+title: Domov
 contentType: prose
 ---
 
 <section>
-
-Domov
 
 Tři roky po svém manželovi, v létě roku 1939, zemřela Klářina babička, Anna-Marie Eggertová.
 

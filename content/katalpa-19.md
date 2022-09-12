@@ -1,10 +1,9 @@
 ---
+title: Dědečkova pracovna
 contentType: prose
 ---
 
 <section>
-
-Dědečkova pracovna
 
 Klářini prarodiče, Anna-Marie a Wilhelm Eggertovi, žili v prostorné vile na okraji města.
 

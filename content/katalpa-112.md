@@ -1,10 +1,9 @@
 ---
+title: Plán
 contentType: prose
 ---
 
 <section>
-
-Plán
 
 Poté, co Hedvika Mahlerová dočetla Annin dopis, zamyšleně vstala, ze zásuvky v příborníku si vzala lžíci a ochutnala polévku na kamnech.
 

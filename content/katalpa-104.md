@@ -1,10 +1,9 @@
 ---
+title: Poklad ze dna
 contentType: prose
 ---
 
 <section>
-
-Poklad ze dna
 
 Měsíc po Fuchsově odchodu ucítil Martin Levička zápach vycházející z nepoužívané studny vykopané na samé hranici sadu a zahrady.
 

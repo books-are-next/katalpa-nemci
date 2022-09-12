@@ -1,10 +1,9 @@
 ---
+title: Klára
 contentType: prose
 ---
 
 <section>
-
-Klára
 
 Ústav svatého Josefa je několikapatrová vila na okraji Lahnsteinu.
 

@@ -1,10 +1,9 @@
 ---
+title: Anna Gerlingová
 contentType: prose
 ---
 
 <section>
-
-Anna Gerlingová
 
 Anna Gerlingová se nezamilovala pouze do Weissmanna, ale rovnou do celé vesnice.
 

@@ -1,10 +1,9 @@
 ---
+title: 1931; štěpení času
 contentType: prose
 ---
 
 <section>
-
-1931; štěpení času
 
 Kupé druhé třídy osobního vlaku do Erfurtu.
 

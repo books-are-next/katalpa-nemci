@@ -1,10 +1,9 @@
 ---
+title: Rzy
 contentType: prose
 ---
 
 <section>
-
-Rzy
 
 Karl Kolmann měl v kanceláři několik různě starých map.
 

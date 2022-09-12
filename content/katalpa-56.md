@@ -1,10 +1,9 @@
 ---
+title: Divadlo
 contentType: prose
 ---
 
 <section>
-
-Divadlo
 
 V roce 1888 se ve Rzech rozhořel spor mezi řídícím Janem Eichlerem a děkanem Josefem Gotthardem, který každý čtvrtek vyučoval ve škole náboženství.
 

@@ -1,10 +1,9 @@
 ---
+title: Čich
 contentType: prose
 ---
 
 <section>
-
-Čich
 
 Na konci července přijeli do Rzů její rodiče.
 

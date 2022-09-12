@@ -1,10 +1,9 @@
 ---
+title: Překvapení
 contentType: prose
 ---
 
 <section>
-
-Překvapení
 
 Na Štědrý den Klára pomáhala Barboře připravit stůl.
 

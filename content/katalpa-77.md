@@ -1,10 +1,9 @@
 ---
+title: Krása
 contentType: prose
 ---
 
 <section>
-
-Krása
 
 To, že Malke onemocněl, se stalo veřejným tajemstvím.
 

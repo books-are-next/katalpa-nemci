@@ -1,10 +1,9 @@
 ---
+title: Bolest
 contentType: prose
 ---
 
 <section>
-
-Bolest
 
 Alois Malke se domníval, že když napíše Helze o své nemoci, vrátí se k němu.
 

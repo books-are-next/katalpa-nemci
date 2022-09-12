@@ -1,10 +1,9 @@
 ---
+title: Žert
 contentType: prose
 ---
 
 <section>
-
-Žert
 
 Když Klára dorazila do Tichého Brodu, byla už noc.
 

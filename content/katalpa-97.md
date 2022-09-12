@@ -1,10 +1,9 @@
 ---
+title: Rozpouštění
 contentType: prose
 ---
 
 <section>
-
-Rozpouštění
 
 Hřbitov ve Rzech pocházel z počátku devatenáctého století.
 

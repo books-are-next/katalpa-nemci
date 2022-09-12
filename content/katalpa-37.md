@@ -1,10 +1,9 @@
 ---
+title: Zbabělost
 contentType: prose
 ---
 
 <section>
-
-Zbabělost
 
 O tom, že mu Karl Kolmann vystaví doklad o nepostradatelnosti, Horst nepochyboval.
 

@@ -1,10 +1,9 @@
 ---
+title: Učitelka
 contentType: prose
 ---
 
 <section>
-
-Učitelka
 
 O tom, že ve Rzech dosud žije učitelka, která nastoupila na její místo, se Anna Gerlingová dozvěděla týden po svém příjezdu do Tichého Brodu.
 

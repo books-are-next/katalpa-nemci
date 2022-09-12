@@ -1,10 +1,9 @@
 ---
+title: Touha
 contentType: prose
 ---
 
 <section>
-
-Touha
 
 Hedvika jí půjčila svůj snubní prstýnek a Anna se na policii přihlásila jako paní Dahlströmová, Hedvičina vdaná sestra, které se podařilo uprchnout z bombardovaného Mannheimu.
 

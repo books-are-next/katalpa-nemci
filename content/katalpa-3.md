@@ -1,10 +1,9 @@
 ---
+title: Pohřeb
 contentType: prose
 ---
 
 <section>
-
-Pohřeb
 
 Otázkou je, zda na pohřeb pozveme také příbuzné z Německa.
 

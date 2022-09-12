@@ -1,10 +1,9 @@
 ---
+title: Hladový les
 contentType: prose
 ---
 
 <section>
-
-Hladový les
 
 Před premiérou divadelní hry vyklidil Fuchs svou třídu, přinesl židle a na stupínek rozestavěl lampy.
 

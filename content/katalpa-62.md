@@ -1,10 +1,9 @@
 ---
+title: Lekce literatury
 contentType: prose
 ---
 
 <section>
-
-Lekce literatury
 
 Otevřela Hanna.
 

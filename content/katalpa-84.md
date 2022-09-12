@@ -1,10 +1,9 @@
 ---
+title: Rozhodnutí
 contentType: prose
 ---
 
 <section>
-
-Rozhodnutí
 
 Na začátku prosince Kláře zatelefonoval otec a narážky, které trousil v předcházejících týdnech a které dodávaly jeho dopisům zlověstný podtón, konečně dostaly pevný tvar.
 

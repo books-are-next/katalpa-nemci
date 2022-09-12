@@ -1,10 +1,9 @@
 ---
+title: Transport
 contentType: prose
 ---
 
 <section>
-
-Transport
 
 Oznámení, aby se hlásil na Národním výboru v Tichém Brodě, obdržel Fuchs na konci června.
 

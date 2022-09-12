@@ -1,10 +1,9 @@
 ---
+title: Dobrá rada
 contentType: prose
 ---
 
 <section>
-
-Dobrá rada
 
 „Dal jsem mu meduňku a baldrián,“ řekl ras a špičkami prstů se dotkl Klářina nahého boku.
 

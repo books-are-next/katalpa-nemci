@@ -1,10 +1,9 @@
 ---
+title: Smrt
 contentType: prose
 ---
 
 <section>
-
-Smrt
 
 Franziska Kolmannová ráda zahradničila.
 

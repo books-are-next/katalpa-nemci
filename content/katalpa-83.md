@@ -1,10 +1,9 @@
 ---
+title: Otec
 contentType: prose
 ---
 
 <section>
-
-Otec
 
 Klára si všimla, že Weissmann začal skřípat zuby.
 

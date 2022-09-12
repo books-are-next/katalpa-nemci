@@ -1,10 +1,9 @@
 ---
+title: Síť slov
 contentType: prose
 ---
 
 <section>
-
-Síť slov
 
 Fuchs byl dlouhou dobu přesvědčený o tom, že podoba krajiny se nezmění.
 

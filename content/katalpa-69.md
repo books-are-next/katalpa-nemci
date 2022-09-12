@@ -1,10 +1,9 @@
 ---
+title: Knihovna
 contentType: prose
 ---
 
 <section>
-
-Knihovna
 
 Hugo Melman měl byt ve starém domě ve Zwingergasse.
 

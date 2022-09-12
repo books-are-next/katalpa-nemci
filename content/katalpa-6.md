@@ -1,10 +1,9 @@
 ---
+title: Telefonát
 contentType: prose
 ---
 
 <section>
-
-Telefonát
 
 Peter s Dorotkou na mě čekají.
 

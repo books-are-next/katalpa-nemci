@@ -1,10 +1,9 @@
 ---
+title: Slib
 contentType: prose
 ---
 
 <section>
-
-Slib
 
 Dva měsíce před závěrečnými zkouškami, v březnu roku 1936, poté co německá armáda obsadila Porýní, zaslechla Klára rozhovor rodičů.
 

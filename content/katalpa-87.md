@@ -1,10 +1,9 @@
 ---
+title: Sadba
 contentType: prose
 ---
 
 <section>
-
-Sadba
 
 Fuchs znal historii každého stromu ve svém sadě.
 

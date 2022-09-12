@@ -1,10 +1,9 @@
 ---
+title: Opona
 contentType: prose
 ---
 
 <section>
-
-Opona
 
 Nejstarší obyvatelé vesnice si dosud pamatovali divadlo, které se hrálo pod vedením řídícího Eichlera a děkana Gottharda.
 

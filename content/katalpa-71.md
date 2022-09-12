@@ -1,10 +1,9 @@
 ---
+title: Mlčení
 contentType: prose
 ---
 
 <section>
-
-Mlčení
 
 Klářina prosba Karla Kolmanna překvapila.
 

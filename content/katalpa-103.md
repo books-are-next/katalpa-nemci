@@ -1,10 +1,9 @@
 ---
+title: Odchod
 contentType: prose
 ---
 
 <section>
-
-Odchod
 
 Před kanceláří vysídlovacího úřadu se táhla dlouhá fronta.
 

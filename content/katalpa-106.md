@@ -1,10 +1,9 @@
 ---
+title: Dítě
 contentType: prose
 ---
 
 <section>
-
-Dítě
 
 Zalechtalo ji to.
 

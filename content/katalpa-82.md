@@ -1,10 +1,9 @@
 ---
+title: Zjištění
 contentType: prose
 ---
 
 <section>
-
-Zjištění
 
 Divokého králíka zastřelil Leon Fischer, majitel jediného hotelu v Tichém Brodě.
 

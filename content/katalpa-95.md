@@ -1,10 +1,9 @@
 ---
+title: Prázdno
 contentType: prose
 ---
 
 <section>
-
-Prázdno
 
 Jednoho dne se Klára vypravila do Weissmannova domu.
 

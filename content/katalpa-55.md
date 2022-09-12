@@ -1,10 +1,9 @@
 ---
+title: Ras
 contentType: prose
 ---
 
 <section>
-
-Ras
 
 Otec Hanny Weissmannové byl nejméně o hlavu menší než ona.
 

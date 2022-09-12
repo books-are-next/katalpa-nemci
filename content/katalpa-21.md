@@ -1,10 +1,9 @@
 ---
+title: Mladík
 contentType: prose
 ---
 
 <section>
-
-Mladík
 
 Šestadvacátého března roku 1931 oslavila Klára devatenácté narozeniny.
 

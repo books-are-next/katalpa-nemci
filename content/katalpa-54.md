@@ -1,10 +1,9 @@
 ---
+title: Samota
 contentType: prose
 ---
 
 <section>
-
-Samota
 
 Každý měsíc si v Tichém Brodě kupovala maso, chléb a margarín.
 

@@ -1,10 +1,9 @@
 ---
+title: Odhalení
 contentType: prose
 ---
 
 <section>
-
-Odhalení
 
 Probudili ji brzy ráno, za okny bylo ještě šero.
 

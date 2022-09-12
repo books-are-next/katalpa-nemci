@@ -1,10 +1,9 @@
 ---
+title: Statek
 contentType: prose
 ---
 
 <section>
-
-Statek
 
 Barbora Levičková měla strach z toho, že to bude velký statek.
 

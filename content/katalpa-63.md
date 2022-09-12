@@ -1,10 +1,9 @@
 ---
+title: Splynutí
 contentType: prose
 ---
 
 <section>
-
-Splynutí
 
 Podruhé se setkali ve vlaku.
 

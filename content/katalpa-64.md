@@ -1,10 +1,9 @@
 ---
+title: Zámek
 contentType: prose
 ---
 
 <section>
-
-Zámek
 
 Po smrti Davida Rosenmüllera přešel zámek ve Rzech do vlastnictví jeho syna Leopolda; ten v roce 1913 odkázal všechen majetek svému synovci Samuelovi.
 

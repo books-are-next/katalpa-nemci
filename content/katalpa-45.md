@@ -1,15 +1,14 @@
 ---
+title: "VI\\.\_rzy\\. pokoj v\_podkroví"
 contentType: prose
 ---
 
 <section>
 
-VI. rzy. pokoj v podkroví
-
-Disciplína.  
+_Disciplína._  
 Joseph Goebbels
 
-Zkusil jsem zvážit jabloňový květ. Některé ztráty jsou nenahraditelné.  
+_Zkusil jsem zvážit jabloňový květ. Některé ztráty jsou nenahraditelné._  
 Erich Fuchs
 
 </section>

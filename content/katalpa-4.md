@@ -1,10 +1,9 @@
 ---
+title: Smutek
 contentType: prose
 ---
 
 <section>
-
-Smutek
 
 Po obřadu postává před krematoriem několik otcových známých.
 

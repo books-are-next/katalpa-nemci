@@ -1,10 +1,9 @@
 ---
+title: Bratr
 contentType: prose
 ---
 
 <section>
-
-Bratr
 
 Na podzim roku 1914 povolali Karla Kolmanna do války.
 
