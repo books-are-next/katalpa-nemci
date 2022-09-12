@@ -1,10 +1,9 @@
 ---
+title: Kšandičky
 contentType: prose
 ---
 
 <section>
-
-Kšandičky
 
 Dva dny vyklízím otcovo oblečení, papíry a knihy.
 

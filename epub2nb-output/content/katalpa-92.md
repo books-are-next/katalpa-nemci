@@ -1,10 +1,9 @@
 ---
+title: Sestry
 contentType: prose
 ---
 
 <section>
-
-Sestry
 
 Anna Gerlingová přečkala válku u své sestry v Praze.
 

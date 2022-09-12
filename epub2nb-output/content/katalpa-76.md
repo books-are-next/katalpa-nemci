@@ -1,10 +1,9 @@
 ---
+title: Neprostupnost
 contentType: prose
 ---
 
 <section>
-
-Neprostupnost
 
 Na konci března přinesl Weissmann Kláře sněženky.
 

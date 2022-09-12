@@ -1,10 +1,9 @@
 ---
+title: Revolver
 contentType: prose
 ---
 
 <section>
-
-Revolver
 
 Dovolenou, na kterou měl Klářin otec v létě nárok, strávili Kolmannovi v Praze.
 

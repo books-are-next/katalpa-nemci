@@ -1,10 +1,9 @@
 ---
+title: Gertrude
 contentType: prose
 ---
 
 <section>
-
-Gertrude
 
 Znovu sedíme naproti sobě, tentokrát bez Gertrude.
 

@@ -1,10 +1,9 @@
 ---
+title: Broskvový koláč
 contentType: prose
 ---
 
 <section>
-
-Broskvový koláč
 
 Cesta do Německa je příšerná.
 

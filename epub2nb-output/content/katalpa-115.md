@@ -1,10 +1,9 @@
 ---
+title: Skládanka
 contentType: prose
 ---
 
 <section>
-
-Skládanka
 
 V červenci roku 2004 čekám druhé dítě a zpráva o smrti babičky Rissmannové mě zastihne v kavárně nedaleko Berwick Street, kde si s Peterem prohlížíme obrázek z ultrazvuku.
 

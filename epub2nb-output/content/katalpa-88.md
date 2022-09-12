@@ -1,10 +1,9 @@
 ---
+title: Rána
 contentType: prose
 ---
 
 <section>
-
-Rána
 
 Symbolem konce se pro ni stal odřený kufr z hověziny.
 

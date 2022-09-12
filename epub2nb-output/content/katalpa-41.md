@@ -1,10 +1,9 @@
 ---
+title: Popletení
 contentType: prose
 ---
 
 <section>
-
-Popletení
 
 Po dvou letech byla Klára s Horstovým odchodem do určité míry smířená.
 

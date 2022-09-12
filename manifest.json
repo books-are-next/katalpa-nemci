@@ -1,0 +1,2545 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Němci",
+  "author": "Jakuba Katalpa",
+  "publisher": "Host — vydavatelství, s. r. o.",
+  "edition": "Beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "katalpa-nemci-3ee83ad",
+  "revision": "3ee83ad",
+  "readingOrder": [
+    "promo.html",
+    "katalpa-2.html",
+    "katalpa-3.html",
+    "katalpa-4.html",
+    "katalpa-5.html",
+    "katalpa-6.html",
+    "katalpa-7.html",
+    "katalpa-8.html",
+    "katalpa-9.html",
+    "katalpa-10.html",
+    "katalpa-11.html",
+    "katalpa-12.html",
+    "katalpa-13.html",
+    "katalpa-14.html",
+    "katalpa-15.html",
+    "katalpa-16.html",
+    "katalpa-17.html",
+    "katalpa-18.html",
+    "katalpa-19.html",
+    "katalpa-20.html",
+    "katalpa-21.html",
+    "katalpa-22.html",
+    "katalpa-23.html",
+    "katalpa-24.html",
+    "katalpa-25.html",
+    "katalpa-26.html",
+    "katalpa-27.html",
+    "katalpa-28.html",
+    "katalpa-29.html",
+    "katalpa-30.html",
+    "katalpa-31.html",
+    "katalpa-32.html",
+    "katalpa-33.html",
+    "katalpa-34.html",
+    "katalpa-35.html",
+    "katalpa-36.html",
+    "katalpa-37.html",
+    "katalpa-38.html",
+    "katalpa-39.html",
+    "katalpa-40.html",
+    "katalpa-41.html",
+    "katalpa-42.html",
+    "katalpa-43.html",
+    "katalpa-44.html",
+    "katalpa-45.html",
+    "katalpa-46.html",
+    "katalpa-47.html",
+    "katalpa-48.html",
+    "katalpa-49.html",
+    "katalpa-50.html",
+    "katalpa-51.html",
+    "katalpa-52.html",
+    "katalpa-53.html",
+    "katalpa-54.html",
+    "katalpa-55.html",
+    "katalpa-56.html",
+    "katalpa-57.html",
+    "katalpa-58.html",
+    "katalpa-59.html",
+    "katalpa-60.html",
+    "katalpa-61.html",
+    "katalpa-62.html",
+    "katalpa-63.html",
+    "katalpa-64.html",
+    "katalpa-65.html",
+    "katalpa-66.html",
+    "katalpa-67.html",
+    "katalpa-68.html",
+    "katalpa-69.html",
+    "katalpa-70.html",
+    "katalpa-71.html",
+    "katalpa-72.html",
+    "katalpa-73.html",
+    "katalpa-74.html",
+    "katalpa-75.html",
+    "katalpa-76.html",
+    "katalpa-77.html",
+    "katalpa-78.html",
+    "katalpa-79.html",
+    "katalpa-80.html",
+    "katalpa-81.html",
+    "katalpa-82.html",
+    "katalpa-83.html",
+    "katalpa-84.html",
+    "katalpa-85.html",
+    "katalpa-86.html",
+    "katalpa-87.html",
+    "katalpa-88.html",
+    "katalpa-89.html",
+    "katalpa-90.html",
+    "katalpa-91.html",
+    "katalpa-92.html",
+    "katalpa-93.html",
+    "katalpa-94.html",
+    "katalpa-95.html",
+    "katalpa-96.html",
+    "katalpa-97.html",
+    "katalpa-98.html",
+    "katalpa-99.html",
+    "katalpa-100.html",
+    "katalpa-101.html",
+    "katalpa-102.html",
+    "katalpa-103.html",
+    "katalpa-104.html",
+    "katalpa-105.html",
+    "katalpa-106.html",
+    "katalpa-107.html",
+    "katalpa-108.html",
+    "katalpa-109.html",
+    "katalpa-110.html",
+    "katalpa-111.html",
+    "katalpa-112.html",
+    "katalpa-113.html",
+    "katalpa-114.html",
+    "katalpa-115.html",
+    "katalpa-116.html",
+    "katalpa-117.html",
+    "katalpa-118.html",
+    "katalpa-119.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Mon Sep 12 2022 14:35:31 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1662993331496
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "katalpa-2.html",
+      "toc": []
+    },
+    {
+      "title": "I. kšandičky",
+      "file": "katalpa-2.html",
+      "words": 19,
+      "chars": 116,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "katalpa-3.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I. kšandičky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pohřeb",
+      "file": "katalpa-3.html",
+      "words": 1284,
+      "chars": 7735,
+      "ideas": 54,
+      "role": "chapter",
+      "order": 2,
+      "prev": "katalpa-2.html",
+      "next": "katalpa-4.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pohřeb",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Smutek",
+      "file": "katalpa-4.html",
+      "words": 810,
+      "chars": 4784,
+      "ideas": 59,
+      "role": "chapter",
+      "order": 3,
+      "prev": "katalpa-3.html",
+      "next": "katalpa-5.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Smutek",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kšandičky",
+      "file": "katalpa-5.html",
+      "words": 743,
+      "chars": 4491,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 4,
+      "prev": "katalpa-4.html",
+      "next": "katalpa-6.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kšandičky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Telefonát",
+      "file": "katalpa-6.html",
+      "words": 634,
+      "chars": 3823,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 5,
+      "prev": "katalpa-5.html",
+      "next": "katalpa-7.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Telefonát",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pottsau",
+      "file": "katalpa-7.html",
+      "words": 1030,
+      "chars": 6284,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 6,
+      "prev": "katalpa-6.html",
+      "next": "katalpa-8.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pottsau",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dovolená",
+      "file": "katalpa-8.html",
+      "words": 298,
+      "chars": 1778,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 7,
+      "prev": "katalpa-7.html",
+      "next": "katalpa-9.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dovolená",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Broskvový koláč",
+      "file": "katalpa-9.html",
+      "words": 1651,
+      "chars": 9948,
+      "ideas": 89,
+      "role": "chapter",
+      "order": 8,
+      "prev": "katalpa-8.html",
+      "next": "katalpa-10.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Broskvový koláč",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Klára",
+      "file": "katalpa-10.html",
+      "words": 742,
+      "chars": 4373,
+      "ideas": 60,
+      "role": "chapter",
+      "order": 9,
+      "prev": "katalpa-9.html",
+      "next": "katalpa-11.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Klára",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Gertrude",
+      "file": "katalpa-11.html",
+      "words": 1111,
+      "chars": 6621,
+      "ideas": 52,
+      "role": "chapter",
+      "order": 10,
+      "prev": "katalpa-10.html",
+      "next": "katalpa-12.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Gertrude",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Prasklina",
+      "file": "katalpa-12.html",
+      "words": 554,
+      "chars": 3328,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 11,
+      "prev": "katalpa-11.html",
+      "next": "katalpa-13.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Prasklina",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "II. krásné německo. dětské krůčky",
+      "file": "katalpa-13.html",
+      "words": 27,
+      "chars": 169,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 12,
+      "prev": "katalpa-12.html",
+      "next": "katalpa-14.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II. krásné německo. dětské krůčky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Narození",
+      "file": "katalpa-14.html",
+      "words": 585,
+      "chars": 3642,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 13,
+      "prev": "katalpa-13.html",
+      "next": "katalpa-15.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Narození",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Strach",
+      "file": "katalpa-15.html",
+      "words": 473,
+      "chars": 2917,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 14,
+      "prev": "katalpa-14.html",
+      "next": "katalpa-16.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Strach",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bratr",
+      "file": "katalpa-16.html",
+      "words": 192,
+      "chars": 1231,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 15,
+      "prev": "katalpa-15.html",
+      "next": "katalpa-17.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Bratr",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hrdina",
+      "file": "katalpa-17.html",
+      "words": 382,
+      "chars": 2360,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 16,
+      "prev": "katalpa-16.html",
+      "next": "katalpa-18.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hrdina",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Smrt",
+      "file": "katalpa-18.html",
+      "words": 1317,
+      "chars": 8162,
+      "ideas": 68,
+      "role": "chapter",
+      "order": 17,
+      "prev": "katalpa-17.html",
+      "next": "katalpa-19.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Smrt",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dědečkova pracovna",
+      "file": "katalpa-19.html",
+      "words": 578,
+      "chars": 3589,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 18,
+      "prev": "katalpa-18.html",
+      "next": "katalpa-20.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dědečkova pracovna",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "III. krásné německo. muži",
+      "file": "katalpa-20.html",
+      "words": 25,
+      "chars": 172,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 19,
+      "prev": "katalpa-19.html",
+      "next": "katalpa-21.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "III. krásné německo. muži",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Mladík",
+      "file": "katalpa-21.html",
+      "words": 205,
+      "chars": 1244,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 20,
+      "prev": "katalpa-20.html",
+      "next": "katalpa-22.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Mladík",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nesmělost",
+      "file": "katalpa-22.html",
+      "words": 279,
+      "chars": 1693,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 21,
+      "prev": "katalpa-21.html",
+      "next": "katalpa-23.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nesmělost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1931; štěpení času",
+      "file": "katalpa-23.html",
+      "words": 295,
+      "chars": 1919,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 22,
+      "prev": "katalpa-22.html",
+      "next": "katalpa-24.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1931; štěpení času",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1932; úlomky za okny vlaku",
+      "file": "katalpa-24.html",
+      "words": 361,
+      "chars": 2376,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 23,
+      "prev": "katalpa-23.html",
+      "next": "katalpa-25.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1932; úlomky za okny vlaku",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1933; štěpení času II",
+      "file": "katalpa-25.html",
+      "words": 836,
+      "chars": 5240,
+      "ideas": 43,
+      "role": "chapter",
+      "order": 24,
+      "prev": "katalpa-24.html",
+      "next": "katalpa-26.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1933; štěpení času II",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1934; úlomky za okny vlaku II",
+      "file": "katalpa-26.html",
+      "words": 883,
+      "chars": 5512,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 25,
+      "prev": "katalpa-25.html",
+      "next": "katalpa-27.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1934; úlomky za okny vlaku II",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1935; štěpení času III",
+      "file": "katalpa-27.html",
+      "words": 1140,
+      "chars": 7177,
+      "ideas": 53,
+      "role": "chapter",
+      "order": 26,
+      "prev": "katalpa-26.html",
+      "next": "katalpa-28.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1935; štěpení času III",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Slib",
+      "file": "katalpa-28.html",
+      "words": 506,
+      "chars": 3137,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 27,
+      "prev": "katalpa-27.html",
+      "next": "katalpa-29.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Slib",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "R. H.",
+      "file": "katalpa-29.html",
+      "words": 937,
+      "chars": 5637,
+      "ideas": 74,
+      "role": "chapter",
+      "order": 28,
+      "prev": "katalpa-28.html",
+      "next": "katalpa-30.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "R. H.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IV. krásné německo. milý",
+      "file": "katalpa-30.html",
+      "words": 32,
+      "chars": 200,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 29,
+      "prev": "katalpa-29.html",
+      "next": "katalpa-31.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IV. krásné německo. milý",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vůně",
+      "file": "katalpa-31.html",
+      "words": 122,
+      "chars": 712,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 30,
+      "prev": "katalpa-30.html",
+      "next": "katalpa-32.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vůně",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Horst",
+      "file": "katalpa-32.html",
+      "words": 1230,
+      "chars": 7444,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 31,
+      "prev": "katalpa-31.html",
+      "next": "katalpa-33.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Horst",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Krevety a vypůjčený smoking",
+      "file": "katalpa-33.html",
+      "words": 653,
+      "chars": 3868,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 32,
+      "prev": "katalpa-32.html",
+      "next": "katalpa-34.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Krevety a vypůjčený smoking",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Mit zähem Willen",
+      "file": "katalpa-34.html",
+      "words": 143,
+      "chars": 838,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 33,
+      "prev": "katalpa-33.html",
+      "next": "katalpa-35.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Mit zähem Willen",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Židovka",
+      "file": "katalpa-35.html",
+      "words": 1184,
+      "chars": 7481,
+      "ideas": 49,
+      "role": "chapter",
+      "order": 34,
+      "prev": "katalpa-34.html",
+      "next": "katalpa-36.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Židovka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Domov",
+      "file": "katalpa-36.html",
+      "words": 350,
+      "chars": 2214,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 35,
+      "prev": "katalpa-35.html",
+      "next": "katalpa-37.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Domov",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zbabělost",
+      "file": "katalpa-37.html",
+      "words": 205,
+      "chars": 1211,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 36,
+      "prev": "katalpa-36.html",
+      "next": "katalpa-38.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zbabělost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V. krásné německo. trhliny",
+      "file": "katalpa-38.html",
+      "words": 28,
+      "chars": 170,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 37,
+      "prev": "katalpa-37.html",
+      "next": "katalpa-39.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V. krásné německo. trhliny",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Skorovdova",
+      "file": "katalpa-39.html",
+      "words": 1110,
+      "chars": 6648,
+      "ideas": 83,
+      "role": "chapter",
+      "order": 38,
+      "prev": "katalpa-38.html",
+      "next": "katalpa-40.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Skorovdova",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Revolver",
+      "file": "katalpa-40.html",
+      "words": 176,
+      "chars": 1082,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 39,
+      "prev": "katalpa-39.html",
+      "next": "katalpa-41.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Revolver",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Popletení",
+      "file": "katalpa-41.html",
+      "words": 253,
+      "chars": 1594,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 40,
+      "prev": "katalpa-40.html",
+      "next": "katalpa-42.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Popletení",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Skvrna",
+      "file": "katalpa-42.html",
+      "words": 631,
+      "chars": 3932,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 41,
+      "prev": "katalpa-41.html",
+      "next": "katalpa-43.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Skvrna",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Umístěnka",
+      "file": "katalpa-43.html",
+      "words": 454,
+      "chars": 2883,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 42,
+      "prev": "katalpa-42.html",
+      "next": "katalpa-44.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Umístěnka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Rzy",
+      "file": "katalpa-44.html",
+      "words": 249,
+      "chars": 1474,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 43,
+      "prev": "katalpa-43.html",
+      "next": "katalpa-45.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Rzy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VI. rzy. pokoj v podkroví",
+      "file": "katalpa-45.html",
+      "words": 19,
+      "chars": 132,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 44,
+      "prev": "katalpa-44.html",
+      "next": "katalpa-46.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VI. rzy. pokoj v podkroví",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Žert",
+      "file": "katalpa-46.html",
+      "words": 711,
+      "chars": 4343,
+      "ideas": 51,
+      "role": "chapter",
+      "order": 45,
+      "prev": "katalpa-45.html",
+      "next": "katalpa-47.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Žert",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Chlast",
+      "file": "katalpa-47.html",
+      "words": 310,
+      "chars": 1792,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 46,
+      "prev": "katalpa-46.html",
+      "next": "katalpa-48.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Chlast",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Křída",
+      "file": "katalpa-48.html",
+      "words": 385,
+      "chars": 2359,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 47,
+      "prev": "katalpa-47.html",
+      "next": "katalpa-49.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Křída",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Fuchs",
+      "file": "katalpa-49.html",
+      "words": 2992,
+      "chars": 18143,
+      "ideas": 106,
+      "role": "chapter",
+      "order": 48,
+      "prev": "katalpa-48.html",
+      "next": "katalpa-50.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Fuchs",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dárek",
+      "file": "katalpa-50.html",
+      "words": 787,
+      "chars": 4807,
+      "ideas": 62,
+      "role": "chapter",
+      "order": 49,
+      "prev": "katalpa-49.html",
+      "next": "katalpa-51.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dárek",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Cizinka",
+      "file": "katalpa-51.html",
+      "words": 650,
+      "chars": 3935,
+      "ideas": 60,
+      "role": "chapter",
+      "order": 50,
+      "prev": "katalpa-50.html",
+      "next": "katalpa-52.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Cizinka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Daleko od fronty",
+      "file": "katalpa-52.html",
+      "words": 1041,
+      "chars": 6350,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 51,
+      "prev": "katalpa-51.html",
+      "next": "katalpa-53.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Daleko od fronty",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jazyk",
+      "file": "katalpa-53.html",
+      "words": 822,
+      "chars": 4974,
+      "ideas": 56,
+      "role": "chapter",
+      "order": 52,
+      "prev": "katalpa-52.html",
+      "next": "katalpa-54.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jazyk",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Samota",
+      "file": "katalpa-54.html",
+      "words": 304,
+      "chars": 1793,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 53,
+      "prev": "katalpa-53.html",
+      "next": "katalpa-55.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Samota",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ras",
+      "file": "katalpa-55.html",
+      "words": 527,
+      "chars": 3186,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 54,
+      "prev": "katalpa-54.html",
+      "next": "katalpa-56.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ras",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Divadlo",
+      "file": "katalpa-56.html",
+      "words": 1237,
+      "chars": 7770,
+      "ideas": 77,
+      "role": "chapter",
+      "order": 55,
+      "prev": "katalpa-55.html",
+      "next": "katalpa-57.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Divadlo",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Opona",
+      "file": "katalpa-57.html",
+      "words": 750,
+      "chars": 4455,
+      "ideas": 82,
+      "role": "chapter",
+      "order": 56,
+      "prev": "katalpa-56.html",
+      "next": "katalpa-58.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Opona",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Malke",
+      "file": "katalpa-58.html",
+      "words": 1481,
+      "chars": 8807,
+      "ideas": 108,
+      "role": "chapter",
+      "order": 57,
+      "prev": "katalpa-57.html",
+      "next": "katalpa-59.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Malke",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hladový les",
+      "file": "katalpa-59.html",
+      "words": 730,
+      "chars": 4353,
+      "ideas": 66,
+      "role": "chapter",
+      "order": 58,
+      "prev": "katalpa-58.html",
+      "next": "katalpa-60.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hladový les",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Žádost",
+      "file": "katalpa-60.html",
+      "words": 1067,
+      "chars": 6465,
+      "ideas": 104,
+      "role": "chapter",
+      "order": 59,
+      "prev": "katalpa-59.html",
+      "next": "katalpa-61.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Žádost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nemoc",
+      "file": "katalpa-61.html",
+      "words": 939,
+      "chars": 5747,
+      "ideas": 60,
+      "role": "chapter",
+      "order": 60,
+      "prev": "katalpa-60.html",
+      "next": "katalpa-62.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nemoc",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lekce literatury",
+      "file": "katalpa-62.html",
+      "words": 712,
+      "chars": 4352,
+      "ideas": 48,
+      "role": "chapter",
+      "order": 61,
+      "prev": "katalpa-61.html",
+      "next": "katalpa-63.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lekce literatury",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Splynutí",
+      "file": "katalpa-63.html",
+      "words": 657,
+      "chars": 4017,
+      "ideas": 63,
+      "role": "chapter",
+      "order": 62,
+      "prev": "katalpa-62.html",
+      "next": "katalpa-64.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Splynutí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zámek",
+      "file": "katalpa-64.html",
+      "words": 1409,
+      "chars": 8913,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 63,
+      "prev": "katalpa-63.html",
+      "next": "katalpa-65.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zámek",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Melman",
+      "file": "katalpa-65.html",
+      "words": 2366,
+      "chars": 14343,
+      "ideas": 56,
+      "role": "chapter",
+      "order": 64,
+      "prev": "katalpa-64.html",
+      "next": "katalpa-66.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Melman",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dobrá rada",
+      "file": "katalpa-66.html",
+      "words": 187,
+      "chars": 1088,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 65,
+      "prev": "katalpa-65.html",
+      "next": "katalpa-67.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dobrá rada",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Propast",
+      "file": "katalpa-67.html",
+      "words": 1228,
+      "chars": 7286,
+      "ideas": 111,
+      "role": "chapter",
+      "order": 66,
+      "prev": "katalpa-66.html",
+      "next": "katalpa-68.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Propast",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Weissmann",
+      "file": "katalpa-68.html",
+      "words": 229,
+      "chars": 1328,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 67,
+      "prev": "katalpa-67.html",
+      "next": "katalpa-69.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Weissmann",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Knihovna",
+      "file": "katalpa-69.html",
+      "words": 629,
+      "chars": 3896,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 68,
+      "prev": "katalpa-68.html",
+      "next": "katalpa-70.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Knihovna",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vlak",
+      "file": "katalpa-70.html",
+      "words": 1024,
+      "chars": 6151,
+      "ideas": 66,
+      "role": "chapter",
+      "order": 69,
+      "prev": "katalpa-69.html",
+      "next": "katalpa-71.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vlak",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Mlčení",
+      "file": "katalpa-71.html",
+      "words": 452,
+      "chars": 2734,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 70,
+      "prev": "katalpa-70.html",
+      "next": "katalpa-72.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Mlčení",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Napadení",
+      "file": "katalpa-72.html",
+      "words": 612,
+      "chars": 3870,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 71,
+      "prev": "katalpa-71.html",
+      "next": "katalpa-73.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Napadení",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Konzultace",
+      "file": "katalpa-73.html",
+      "words": 772,
+      "chars": 4911,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 72,
+      "prev": "katalpa-72.html",
+      "next": "katalpa-74.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Konzultace",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bolest",
+      "file": "katalpa-74.html",
+      "words": 703,
+      "chars": 4217,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 73,
+      "prev": "katalpa-73.html",
+      "next": "katalpa-75.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Bolest",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Okna",
+      "file": "katalpa-75.html",
+      "words": 95,
+      "chars": 591,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 74,
+      "prev": "katalpa-74.html",
+      "next": "katalpa-76.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Okna",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Neprostupnost",
+      "file": "katalpa-76.html",
+      "words": 676,
+      "chars": 4144,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 75,
+      "prev": "katalpa-75.html",
+      "next": "katalpa-77.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Neprostupnost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Krása",
+      "file": "katalpa-77.html",
+      "words": 689,
+      "chars": 4103,
+      "ideas": 43,
+      "role": "chapter",
+      "order": 76,
+      "prev": "katalpa-76.html",
+      "next": "katalpa-78.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Krása",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zvědavost",
+      "file": "katalpa-78.html",
+      "words": 789,
+      "chars": 4768,
+      "ideas": 87,
+      "role": "chapter",
+      "order": 77,
+      "prev": "katalpa-77.html",
+      "next": "katalpa-79.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zvědavost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Čich",
+      "file": "katalpa-79.html",
+      "words": 98,
+      "chars": 603,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 78,
+      "prev": "katalpa-78.html",
+      "next": "katalpa-80.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Čich",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pod hladinou",
+      "file": "katalpa-80.html",
+      "words": 1250,
+      "chars": 7511,
+      "ideas": 57,
+      "role": "chapter",
+      "order": 79,
+      "prev": "katalpa-79.html",
+      "next": "katalpa-81.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pod hladinou",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Otázka",
+      "file": "katalpa-81.html",
+      "words": 103,
+      "chars": 666,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 80,
+      "prev": "katalpa-80.html",
+      "next": "katalpa-82.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Otázka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zjištění",
+      "file": "katalpa-82.html",
+      "words": 525,
+      "chars": 3221,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 81,
+      "prev": "katalpa-81.html",
+      "next": "katalpa-83.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zjištění",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Otec",
+      "file": "katalpa-83.html",
+      "words": 68,
+      "chars": 403,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 82,
+      "prev": "katalpa-82.html",
+      "next": "katalpa-84.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Otec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Rozhodnutí",
+      "file": "katalpa-84.html",
+      "words": 659,
+      "chars": 4075,
+      "ideas": 73,
+      "role": "chapter",
+      "order": 83,
+      "prev": "katalpa-83.html",
+      "next": "katalpa-85.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Rozhodnutí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Rozhlas",
+      "file": "katalpa-85.html",
+      "words": 857,
+      "chars": 5424,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 84,
+      "prev": "katalpa-84.html",
+      "next": "katalpa-86.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Rozhlas",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Oheň a díra v čelisti",
+      "file": "katalpa-86.html",
+      "words": 1109,
+      "chars": 6705,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 85,
+      "prev": "katalpa-85.html",
+      "next": "katalpa-87.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Oheň a díra v čelisti",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sadba",
+      "file": "katalpa-87.html",
+      "words": 815,
+      "chars": 5010,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 86,
+      "prev": "katalpa-86.html",
+      "next": "katalpa-88.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sadba",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Rána",
+      "file": "katalpa-88.html",
+      "words": 280,
+      "chars": 1661,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 87,
+      "prev": "katalpa-87.html",
+      "next": "katalpa-89.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Rána",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VII. rzy. de profundis",
+      "file": "katalpa-89.html",
+      "words": 13,
+      "chars": 86,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 88,
+      "prev": "katalpa-88.html",
+      "next": "katalpa-90.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VII. rzy. de profundis",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Náruč",
+      "file": "katalpa-90.html",
+      "words": 645,
+      "chars": 3760,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 89,
+      "prev": "katalpa-89.html",
+      "next": "katalpa-91.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Náruč",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VIII. rzy. odchod",
+      "file": "katalpa-91.html",
+      "words": 14,
+      "chars": 96,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 90,
+      "prev": "katalpa-90.html",
+      "next": "katalpa-92.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VIII. rzy. odchod",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sestry",
+      "file": "katalpa-92.html",
+      "words": 497,
+      "chars": 3044,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 91,
+      "prev": "katalpa-91.html",
+      "next": "katalpa-93.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sestry",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Statek",
+      "file": "katalpa-93.html",
+      "words": 516,
+      "chars": 3094,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 92,
+      "prev": "katalpa-92.html",
+      "next": "katalpa-94.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Statek",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Rozpad",
+      "file": "katalpa-94.html",
+      "words": 333,
+      "chars": 2125,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 93,
+      "prev": "katalpa-93.html",
+      "next": "katalpa-95.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Rozpad",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Prázdno",
+      "file": "katalpa-95.html",
+      "words": 91,
+      "chars": 584,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 94,
+      "prev": "katalpa-94.html",
+      "next": "katalpa-96.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Prázdno",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Rodina",
+      "file": "katalpa-96.html",
+      "words": 575,
+      "chars": 3587,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 95,
+      "prev": "katalpa-95.html",
+      "next": "katalpa-97.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Rodina",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Rozpouštění",
+      "file": "katalpa-97.html",
+      "words": 488,
+      "chars": 3091,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 96,
+      "prev": "katalpa-96.html",
+      "next": "katalpa-98.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Rozpouštění",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Překvapení",
+      "file": "katalpa-98.html",
+      "words": 416,
+      "chars": 2492,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 97,
+      "prev": "katalpa-97.html",
+      "next": "katalpa-99.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Překvapení",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Síť slov",
+      "file": "katalpa-99.html",
+      "words": 536,
+      "chars": 3225,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 98,
+      "prev": "katalpa-98.html",
+      "next": "katalpa-100.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Síť slov",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jaro",
+      "file": "katalpa-100.html",
+      "words": 96,
+      "chars": 631,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 99,
+      "prev": "katalpa-99.html",
+      "next": "katalpa-101.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jaro",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Něha",
+      "file": "katalpa-101.html",
+      "words": 154,
+      "chars": 984,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 100,
+      "prev": "katalpa-100.html",
+      "next": "katalpa-102.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Něha",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Transport",
+      "file": "katalpa-102.html",
+      "words": 81,
+      "chars": 455,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 101,
+      "prev": "katalpa-101.html",
+      "next": "katalpa-103.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Transport",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Odchod",
+      "file": "katalpa-103.html",
+      "words": 707,
+      "chars": 4256,
+      "ideas": 49,
+      "role": "chapter",
+      "order": 102,
+      "prev": "katalpa-102.html",
+      "next": "katalpa-104.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Odchod",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Poklad ze dna",
+      "file": "katalpa-104.html",
+      "words": 341,
+      "chars": 2058,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 103,
+      "prev": "katalpa-103.html",
+      "next": "katalpa-105.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poklad ze dna",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Anna Gerlingová",
+      "file": "katalpa-105.html",
+      "words": 829,
+      "chars": 4790,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 104,
+      "prev": "katalpa-104.html",
+      "next": "katalpa-106.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Anna Gerlingová",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dítě",
+      "file": "katalpa-106.html",
+      "words": 206,
+      "chars": 1217,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 105,
+      "prev": "katalpa-105.html",
+      "next": "katalpa-107.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dítě",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Touha",
+      "file": "katalpa-107.html",
+      "words": 696,
+      "chars": 4204,
+      "ideas": 45,
+      "role": "chapter",
+      "order": 106,
+      "prev": "katalpa-106.html",
+      "next": "katalpa-108.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Touha",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Odhalení",
+      "file": "katalpa-108.html",
+      "words": 1478,
+      "chars": 8830,
+      "ideas": 85,
+      "role": "chapter",
+      "order": 107,
+      "prev": "katalpa-107.html",
+      "next": "katalpa-109.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Odhalení",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vzpomínka",
+      "file": "katalpa-109.html",
+      "words": 932,
+      "chars": 5888,
+      "ideas": 57,
+      "role": "chapter",
+      "order": 108,
+      "prev": "katalpa-108.html",
+      "next": "katalpa-110.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vzpomínka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Odpor",
+      "file": "katalpa-110.html",
+      "words": 493,
+      "chars": 3059,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 109,
+      "prev": "katalpa-109.html",
+      "next": "katalpa-111.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Odpor",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Učitelka",
+      "file": "katalpa-111.html",
+      "words": 1331,
+      "chars": 7965,
+      "ideas": 94,
+      "role": "chapter",
+      "order": 110,
+      "prev": "katalpa-110.html",
+      "next": "katalpa-112.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Učitelka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Plán",
+      "file": "katalpa-112.html",
+      "words": 737,
+      "chars": 4306,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 111,
+      "prev": "katalpa-111.html",
+      "next": "katalpa-113.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Plán",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Počátek",
+      "file": "katalpa-113.html",
+      "words": 925,
+      "chars": 5713,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 112,
+      "prev": "katalpa-112.html",
+      "next": "katalpa-114.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Počátek",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IX. matky",
+      "file": "katalpa-114.html",
+      "words": 31,
+      "chars": 186,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 113,
+      "prev": "katalpa-113.html",
+      "next": "katalpa-115.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IX. matky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Skládanka",
+      "file": "katalpa-115.html",
+      "words": 960,
+      "chars": 5902,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 114,
+      "prev": "katalpa-114.html",
+      "next": "katalpa-116.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Skládanka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kousnutí",
+      "file": "katalpa-116.html",
+      "words": 1072,
+      "chars": 6548,
+      "ideas": 38,
+      "role": "chapter",
+      "order": 115,
+      "prev": "katalpa-115.html",
+      "next": "katalpa-117.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kousnutí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Balíček",
+      "file": "katalpa-117.html",
+      "words": 534,
+      "chars": 3328,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 116,
+      "prev": "katalpa-116.html",
+      "next": "katalpa-118.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Balíček",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Geografie ztráty",
+      "file": "katalpa-118.html",
+      "words": 658,
+      "chars": 4013,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 117,
+      "prev": "katalpa-117.html",
+      "next": "katalpa-119.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Geografie ztráty",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pohyb, který rozvlnil vzduch",
+      "file": "katalpa-119.html",
+      "words": 490,
+      "chars": 2992,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 118,
+      "prev": "katalpa-118.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pohyb, který rozvlnil vzduch",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 1,
+      "chars": 5,
+      "ideas": 1,
+      "role": "about",
+      "order": null,
+      "prev": "katalpa-119.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 75343,
+      "chars": 459155,
+      "ideas": 4025
+    },
+    "chapters": {
+      "words": 75337,
+      "chars": 459120,
+      "ideas": 4020
+    }
+  }
+}

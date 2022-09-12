@@ -1,15 +1,14 @@
 ---
+title: "I\\.\_kšandičky"
 contentType: prose
 ---
 
 <section>
 
-I. kšandičky
+_Viselo to ve vzduchu.  
+_Konrad Mahler
 
-Viselo to ve vzduchu.  
-Konrad Mahler
-
-Do určitého věku je korekce stále ještě možná.  
+_Do určitého věku je korekce stále ještě možná._  
 Profesor Arnold Pavlík
 
 </section>

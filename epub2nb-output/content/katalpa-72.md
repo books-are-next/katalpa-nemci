@@ -1,10 +1,9 @@
 ---
+title: Napadení
 contentType: prose
 ---
 
 <section>
-
-Napadení
 
 Toho, že se mu zvětšuje levé varle, si školní inspektor Alois Malke všiml již před několika měsíci.
 

@@ -1,10 +1,9 @@
 ---
+title: Propast
 contentType: prose
 ---
 
 <section>
-
-Propast
 
 Fuchsova nedůvěra k Weissmannovi byla stará záležitost.
 

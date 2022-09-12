@@ -1,10 +1,9 @@
 ---
+title: Něha
 contentType: prose
 ---
 
 <section>
-
-Něha
 
 Barbora Levičková porodila na konci dubna.
 

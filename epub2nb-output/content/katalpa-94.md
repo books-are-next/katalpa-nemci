@@ -1,10 +1,9 @@
 ---
+title: Rozpad
 contentType: prose
 ---
 
 <section>
-
-Rozpad
 
 Výměnek, do kterého se Klára s Fuchsem po příchodu Levičkových nastěhovali, sestával z jedné malé místnosti s roubenými stěnami a kamennou podezdívkou.
 

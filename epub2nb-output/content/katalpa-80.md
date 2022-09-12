@@ -1,10 +1,9 @@
 ---
+title: Pod hladinou
 contentType: prose
 ---
 
 <section>
-
-Pod hladinou
 
 Na břehu zatopeného lomu, který byl kousek za vsí, potkala Fuchse.
 

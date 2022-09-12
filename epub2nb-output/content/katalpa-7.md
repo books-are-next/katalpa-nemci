@@ -1,10 +1,9 @@
 ---
+title: Pottsau
 contentType: prose
 ---
 
 <section>
-
-Pottsau
 
 Martin si uchoval víru v to, co mu otec řekl, až do dospělosti.
 

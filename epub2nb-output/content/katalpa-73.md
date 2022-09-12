@@ -1,10 +1,9 @@
 ---
+title: Konzultace
 contentType: prose
 ---
 
 <section>
-
-Konzultace
 
 Emil Weissmann byl pečlivý.
 

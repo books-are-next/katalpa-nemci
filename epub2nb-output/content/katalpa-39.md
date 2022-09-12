@@ -1,10 +1,9 @@
 ---
+title: Skorovdova
 contentType: prose
 ---
 
 <section>
-
-Skorovdova
 
 Pětadvacátého října roku 1939, v den plánované svatby, vstala Klára v půl šesté ráno.
 

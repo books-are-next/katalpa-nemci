@@ -1,10 +1,9 @@
 ---
+title: Hrdina
 contentType: prose
 ---
 
 <section>
-
-Hrdina
 
 Karl Kolmann strávil ve válce čtyři roky.
 

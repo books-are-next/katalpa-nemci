@@ -1,10 +1,9 @@
 ---
+title: Vlak
 contentType: prose
 ---
 
 <section>
-
-Vlak
 
 Kláře se líbily Melmanovy světlé modré oči, pečlivě oholené tváře a úzké prsty, které si uměly poradit se vším, co se týkalo papíru, s řezáním knih i šitím sešitů.
 

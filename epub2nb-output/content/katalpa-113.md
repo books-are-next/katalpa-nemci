@@ -1,10 +1,9 @@
 ---
+title: Počátek
 contentType: prose
 ---
 
 <section>
-
-Počátek
 
 Vlak do Prahy měl hodinové zpoždění.
 

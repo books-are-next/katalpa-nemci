@@ -1,10 +1,9 @@
 ---
+title: Fuchs
 contentType: prose
 ---
 
 <section>
-
-Fuchs
 
 Na konci ledna ji Fuchs pozval na oběd.
 

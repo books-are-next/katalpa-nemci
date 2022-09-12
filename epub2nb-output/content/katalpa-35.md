@@ -1,10 +1,9 @@
 ---
+title: Židovka
 contentType: prose
 ---
 
 <section>
-
-Židovka
 
 Od roku 1936 přednášela Klára na soukromém lyceu dějiny umění a estetiku.
 

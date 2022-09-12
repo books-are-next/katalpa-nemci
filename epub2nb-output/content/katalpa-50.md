@@ -1,10 +1,9 @@
 ---
+title: Dárek
 contentType: prose
 ---
 
 <section>
-
-Dárek
 
 V polovině února Klára navštívila inspektora Malkeho.
 

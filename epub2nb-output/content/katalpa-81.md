@@ -1,10 +1,9 @@
 ---
+title: Otázka
 contentType: prose
 ---
 
 <section>
-
-Otázka
 
 Když na počátku listopadu přelétala nad vesnicí letadla, Melman, který ve své posteli snídal, přestal žvýkat a ztuhl.
 

@@ -1,10 +1,9 @@
 ---
+title: Vzpomínka
 contentType: prose
 ---
 
 <section>
-
-Vzpomínka
 
 Když se roku 1876 profesor c. k. gymnázia Wilhelm Eggert ženil, bral si nejen tvrdohlavou dceru Hanse Jürgena Titsche Annu-Marii, ale také jeho továrnu na výrobu železných per.
 

@@ -1,10 +1,9 @@
 ---
+title: Nemoc
 contentType: prose
 ---
 
 <section>
-
-Nemoc
 
 Zpustlý park obklopující zámek na okraji vsi byl snadno přístupný zrezivělou bránou.
 

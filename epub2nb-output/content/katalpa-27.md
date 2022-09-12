@@ -1,10 +1,9 @@
 ---
+title: 1935; štěpení času III
 contentType: prose
 ---
 
 <section>
-
-1935; štěpení času III
 
 Když Klára přitiskla obličej k okénku, sklo se zamžilo jejím dechem.
 

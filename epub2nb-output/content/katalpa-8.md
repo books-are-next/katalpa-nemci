@@ -1,10 +1,9 @@
 ---
+title: Dovolená
 contentType: prose
 ---
 
 <section>
-
-Dovolená
 
 Sedm měsíců po Dorotčině narození nastoupím na zkrácený úvazek do práce, a během oběda si v počítači otevřu německý telefonní seznam.
 

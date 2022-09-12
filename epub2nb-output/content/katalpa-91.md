@@ -1,15 +1,14 @@
 ---
+title: "VIII\\.\_rzy\\. odchod"
 contentType: prose
 ---
 
 <section>
 
-VIII. rzy. odchod
+_Co jste čekali?  
+_Hermann Göring
 
-Co jste čekali?  
-Hermann Göring
-
-Před světlem nelze uniknout.  
-Heloisa Abélardovi
+_Před světlem nelze uniknout.  
+_Heloisa Abélardovi
 
 </section>

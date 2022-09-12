@@ -1,10 +1,9 @@
 ---
+title: Jaro
 contentType: prose
 ---
 
 <section>
-
-Jaro
 
 V polovině března se objevily první známky tání.
 

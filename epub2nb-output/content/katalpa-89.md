@@ -1,15 +1,14 @@
 ---
+title: "VII\\.\_rzy\\. de profundis"
 contentType: prose
 ---
 
 <section>
 
-VII. rzy. de profundis
-
-Vítězství.  
+_Vítězství._  
 Adolf Hitler
 
-Podcenili jsme jejich křehkost.  
+_Podcenili jsme jejich křehkost._  
 Hugo Melman
 
 </section>

@@ -1,10 +1,9 @@
 ---
+title: Žádost
 contentType: prose
 ---
 
 <section>
-
-Žádost
 
 V červnu přijel do města Matthias Laengenfelder, zástupce školního rady Krausse.
 

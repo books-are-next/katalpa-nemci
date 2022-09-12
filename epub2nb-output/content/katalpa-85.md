@@ -1,10 +1,9 @@
 ---
+title: Rozhlas
 contentType: prose
 ---
 
 <section>
-
-Rozhlas
 
 V Rzech byla celkem tři rádia; jedno z nich vlastnil Fuchs.
 

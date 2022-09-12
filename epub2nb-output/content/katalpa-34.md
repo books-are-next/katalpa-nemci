@@ -1,10 +1,9 @@
 ---
+title: Mit zähem Willen
 contentType: prose
 ---
 
 <section>
-
-Mit zähem Willen
 
 Dvořit se jí začal v březnu.
 

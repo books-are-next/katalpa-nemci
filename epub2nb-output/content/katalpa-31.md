@@ -1,10 +1,9 @@
 ---
+title: Vůně
 contentType: prose
 ---
 
 <section>
-
-Vůně
 
 Klobouk, který jí v prosinci šestatřicátého roku vzal vítr, si Klára koupila u firmy Jöckel.
 

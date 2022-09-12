@@ -1,10 +1,9 @@
 ---
+title: 1933; štěpení času II
 contentType: prose
 ---
 
 <section>
-
-1933; štěpení času II
 
 Muž — tři obleky, dva převlečníky, stejný počet klobouků a čtvery střevíce — sedící naproti Kláře během jízdy usnul.
 

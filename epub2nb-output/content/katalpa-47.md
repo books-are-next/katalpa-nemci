@@ -1,10 +1,9 @@
 ---
+title: Chlast
 contentType: prose
 ---
 
 <section>
-
-Chlast
 
 Záchody byly ve zděném přístřešku na dvoře.
 

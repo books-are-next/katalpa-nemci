@@ -1,10 +1,9 @@
 ---
+title: Weissmann
 contentType: prose
 ---
 
 <section>
-
-Weissmann
 
 Na začátku září se bílily třídy, a protože školní správce byl už měsíc na frontě, zbyla všechna práce na Kláru s Fuchsem.
 

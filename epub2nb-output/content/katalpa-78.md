@@ -1,10 +1,9 @@
 ---
+title: Zvědavost
 contentType: prose
 ---
 
 <section>
-
-Zvědavost
 
 „Anna Gerlingová.“
 

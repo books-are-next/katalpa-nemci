@@ -1,10 +1,9 @@
 ---
+title: Okna
 contentType: prose
 ---
 
 <section>
-
-Okna
 
 Když se Melman v polovině února dozvěděl, že Drážďany byly bombardovány, vyděsil se.
 

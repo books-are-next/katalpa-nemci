@@ -1,10 +1,9 @@
 ---
+title: Balíček
 contentType: prose
 ---
 
 <section>
-
-Balíček
 
 Nevzpomínám si, že by babička Mahlerová měla na tváři jizvu, způsobenou Klářinými zuby.
 

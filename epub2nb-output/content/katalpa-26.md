@@ -1,10 +1,9 @@
 ---
+title: 1934; úlomky za okny vlaku II
 contentType: prose
 ---
 
 <section>
-
-1934; úlomky za okny vlaku II
 
 Klára Kolmanová oslavila dvacáté druhé narozeniny.
 

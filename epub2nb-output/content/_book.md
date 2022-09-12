@@ -2,17 +2,19 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
   title: Němci
   identifier: 'Jakuba Katalpa: Němci'
   author: Jakuba Katalpa
   publisher: Host — vydavatelství, s. r. o.
   modified: '2012-11-08T00:00:00.000Z'
+  contentType: prose
+  publisherShort: mkp
+  edition: Beletrie
 readingOrder:
   - promo.html
-  - katalpa.html
-  - katalpa-1.html
   - katalpa-2.html
   - katalpa-3.html
   - katalpa-4.html
@@ -131,11 +133,12 @@ readingOrder:
   - katalpa-117.html
   - katalpa-118.html
   - katalpa-119.html
-  - katalpa-120.html
+  - about.html
 tocBase:
   - id: section-1
     children: []
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

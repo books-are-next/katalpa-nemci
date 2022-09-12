@@ -1,10 +1,9 @@
 ---
+title: Kousnutí
 contentType: prose
 ---
 
 <section>
-
-Kousnutí
 
 Otec se narodil v roce 1947 bytě Jaroslava a Hedviky Mahlerových.
 

@@ -1,10 +1,9 @@
 ---
+title: Pohyb, který rozvlnil vzduch
 contentType: prose
 ---
 
 <section>
-
-Pohyb, který rozvlnil vzduch
 
 Servírka přistupující k našemu stolu se usmívá.
 

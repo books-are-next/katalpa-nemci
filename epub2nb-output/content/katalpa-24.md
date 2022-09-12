@@ -1,10 +1,9 @@
 ---
+title: 1932; úlomky za okny vlaku
 contentType: prose
 ---
 
 <section>
-
-1932; úlomky za okny vlaku
 
 Klára Kolmannová, cestující vlakem do Rodenheimu, znala přesný počet obleků, převlečníků, klobouků a střevíců, jimiž disponoval muž, s nímž sdílela kupé.
 

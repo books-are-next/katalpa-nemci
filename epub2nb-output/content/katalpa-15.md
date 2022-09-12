@@ -1,10 +1,9 @@
 ---
+title: Strach
 contentType: prose
 ---
 
 <section>
-
-Strach
 
 Kojná, kterou Karl Kolmann najal po Klářině narození, byla matkou tří dětí.
 

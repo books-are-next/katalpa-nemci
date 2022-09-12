@@ -1,10 +1,9 @@
 ---
+title: Odpor
 contentType: prose
 ---
 
 <section>
-
-Odpor
 
 Obraz, který Kláře vytanul na mysli, když ve výměnku otevřela okno a nadechla se nočního vzduchu, byl ostrý a intenzivní; viděla před sebou Annu-Marii v černých šatech a s očima malinko vypoulenýma kvůli těsnému sevření korzetu.
 

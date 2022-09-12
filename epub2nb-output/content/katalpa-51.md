@@ -1,10 +1,9 @@
 ---
+title: Cizinka
 contentType: prose
 ---
 
 <section>
-
-Cizinka
 
 Kdykoliv se Klára vrátila z Tichého Brodu, správcová opatrně vyzvídala, kde byla.
 

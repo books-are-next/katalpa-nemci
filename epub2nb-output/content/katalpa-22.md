@@ -1,10 +1,9 @@
 ---
+title: Nesmělost
 contentType: prose
 ---
 
 <section>
-
-Nesmělost
 
 Cestami do Rodenheimu strávila pět let.
 

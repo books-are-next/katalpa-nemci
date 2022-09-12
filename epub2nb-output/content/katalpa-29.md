@@ -1,10 +1,9 @@
 ---
+title: R\. H\.
 contentType: prose
 ---
 
 <section>
-
-R. H.
 
 Závěrečné zkoušky složila s výborným prospěchem.
 

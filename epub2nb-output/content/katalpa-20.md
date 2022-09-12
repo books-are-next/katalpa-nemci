@@ -1,15 +1,14 @@
 ---
+title: "III\\.\_krásné německo\\. muži"
 contentType: prose
 ---
 
 <section>
 
-III. krásné německo. muži
+_Životní styl Adolfa Hitlera je prostý. Nepije alkohol ani nekouří.  
+_Hitler, wie ihn keiner kennt, Zeitgeschichte Verlag, Berlin
 
-Životní styl Adolfa Hitlera je prostý. Nepije alkohol ani nekouří.  
-Hitler, wie ihn keiner kennt, Zeitgeschichte Verlag, Berlin
-
-Stehýnka.  
+_Stehýnka._  
 Reiner Hahn
 
 </section>

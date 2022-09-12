@@ -1,10 +1,9 @@
 ---
+title: Geografie ztráty
 contentType: prose
 ---
 
 <section>
-
-Geografie ztráty
 
 Až mnohem později jsem si uvědomila, že to, co jsme s Gertrude zmapovaly, byla geografie ztráty.
 

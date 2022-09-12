@@ -1,10 +1,9 @@
 ---
+title: Malke
 contentType: prose
 ---
 
 <section>
-
-Malke
 
 Když Klára v květnu odvážela Malkemu svůj pracovní výkaz, pozval ji na oběd.
 

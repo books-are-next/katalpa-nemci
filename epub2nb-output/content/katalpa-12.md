@@ -1,10 +1,9 @@
 ---
+title: Prasklina
 contentType: prose
 ---
 
 <section>
-
-Prasklina
 
 Po návratu domů o tom nemůžu mluvit.
 

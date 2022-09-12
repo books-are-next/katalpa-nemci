@@ -1,10 +1,9 @@
 ---
+title: Křída
 contentType: prose
 ---
 
 <section>
-
-Křída
 
 Po neděli se poprvé setkala s dětmi.
 

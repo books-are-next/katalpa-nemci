@@ -1,10 +1,9 @@
 ---
+title: "Krevety a\_vypůjčený smoking"
 contentType: prose
 ---
 
 <section>
-
-Krevety a vypůjčený smoking
 
 Pozvánku na Kolmannův silvestrovský večírek dostal o týden později.
 
