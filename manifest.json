@@ -8,8 +8,8 @@
   "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "katalpa-nemci-55ab8fb",
-  "revision": "55ab8fb",
+  "identifier": "katalpa-nemci-05c68c6",
+  "revision": "05c68c6",
   "readingOrder": [
     "promo.html",
     "katalpa-2.html",
@@ -133,8 +133,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 22:56:39 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664924199264
+    "date": "Fri Oct 07 2022 13:49:05 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665150545228
   },
   "documents": [
     {
